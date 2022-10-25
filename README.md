@@ -241,11 +241,11 @@ like to thank everyone who took out the time to fill feedback forms, the people 
 and gave detailed evaluations and the people who allowed us to use their names and photos to
 make this project the best that it could be.
 We would also like to thank the owners of these links/resources which were very helpful to us
-while making the entire project
+while making the entire project  
 ● [Cadence Instagram](https://www.instagram.com/p/CL7HM1TD1gX/)  
-● [Cultural Council Instagram](https://www.instagram.com/cc_iiitd/)
-● [AudioBytes Instagram](https://www.instagram.com/audiobytesiiitd/)
-● [Figma Tutorial](https://www.youtube.com/watch?v=3q3FV65ZrUs&t=779s)
+● [Cultural Council Instagram](https://www.instagram.com/cc_iiitd/)  
+● [AudioBytes Instagram](https://www.instagram.com/audiobytesiiitd/)  
+● [Figma Tutorial](https://www.youtube.com/watch?v=3q3FV65ZrUs&t=779s)  
 
 
 
